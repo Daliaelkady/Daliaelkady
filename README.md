@@ -46,9 +46,10 @@
 
 ## 🎯 My Goals  
 
-- 🌱 Sharpen my **React & Tailwind CSS** skills to build modern UIs  
-- 🚀 Learn **Next.js** to create full-stack applications  
-- 📱 Improve at making **responsive, mobile-first designs**  
-- 🤝 Collaborate on **open-source projects** to grow as a developer  
-- 💼 Land a **Frontend Developer internship/job** to apply my skills in real-world projects  
+
+- 🌱 Continue sharpening my **React & Tailwind CSS** skills to build modern UIs  
+- 🚀 Master **Next.js** to create full-stack applications  
+- 📱 Deliver highly **responsive, mobile-first designs**  
+- 🤝 Contribute to **open-source projects** and collaborate with developers worldwide  
+- 💼 Grow as a **Frontend Developer** and apply my skills in impactful, real-world projects  
  
