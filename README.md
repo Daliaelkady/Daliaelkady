@@ -18,13 +18,13 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:Daliaelkady110@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="linkedin.com/in/dalia-elkady-7665222a5" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="(https://github.com/Daliaelkady)" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="60"/>
   </a>
 </p>  
